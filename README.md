@@ -11,6 +11,12 @@ A **Node.js + Express + TypeScript** RESTful API for a social media that provide
 
 ---
 
+## Demo Video
+Watch our demo video for the test application:  
+[Installation and Overview of Test Application](https://youtu.be/pnItMPW2JiE)
+
+---
+
 ## 🗂️ Project Structure
 ```
 src/
